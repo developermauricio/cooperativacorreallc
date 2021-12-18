@@ -1,0 +1,48 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.color-coo {
+    color: #aa4328 !important;
+    font-weight: bold !important;
+}
+.divider-personal .vc_column-inner {
+    padding-top: 0 !important;
+}
+.divider-import .vc_column-inner {
+    padding-top: 0 !important;
+}
+.spacing-quines-somos {
+    padding-top: 4rem;
+}
+.spacing-expor {
+    padding-top: 8rem;
+}
+.divider-import {
+    height: 3.3rem;
+}
+
+
+textarea#msgform {
+    min-height: 120px;
+}
+.btn-sub input {
+    background: #aa4328;
+    color: white;
+    border-radius: 7px;
+}
+.btn-sub input:hover {
+    background: #3763a2;
+  	color: white;
+}
+
+
+@media (max-width: 767.98px) { 
+  .spacing-quines-somos {
+    padding-top: 1rem;
+  }
+  .spacing-expor {
+    padding-top: 1rem;
+  }
+
+
+}</style>
+<!-- end Simple Custom CSS and JS -->
